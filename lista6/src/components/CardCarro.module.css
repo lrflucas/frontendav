@@ -1,0 +1,14 @@
+.card {
+    text-align: center;
+}
+
+.titulo {
+    color: #003366;
+    font-size: 20px;
+}
+
+.preco {
+    color: #008000;
+    font-weight: bold;
+    font-size: 18px
+}

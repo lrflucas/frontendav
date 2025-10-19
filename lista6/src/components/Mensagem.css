@@ -1,0 +1,9 @@
+.ativo {
+    color: green;
+    font-weight: bold;
+}
+
+.inativo {
+    color: gray;
+    font-style: italic;
+}
