@@ -1,0 +1,19 @@
+.formulario {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.formulario input {
+    padding: 8px;
+}
+
+.formulario button {
+    background-color: #007bff;
+    padding: 8px 14px;
+    cursor: pointer;
+}
+
+.formulario button:hover {
+    background-color: #0056b3;
+}

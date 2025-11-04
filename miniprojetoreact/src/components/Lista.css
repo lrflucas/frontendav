@@ -1,0 +1,25 @@
+.lista-alunos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.aluno-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f4f4f4;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.aluno-item button {
+    background-color: #dc3545;
+    color: white;
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+.aluno-item button:hover {
+    background-color: #a71d2a;
+}
